@@ -1,7 +1,7 @@
 ---
 name: Velda Kiara
 photo: velda-kiara.jpeg
-role: Website and Programs
+role: DEFNA Director 
 social:
     twitter: VeldaKiara
     website: https://veldakiara.notion.site/veldakiara/Velda-Kiara-46aec24028fd4e8dbdba003097c18b5b
