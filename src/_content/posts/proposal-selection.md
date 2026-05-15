@@ -24,8 +24,8 @@ _*Subject to change depending on the number of submissions and other factors._
 - **Reviewer Deadline**: April 10
 - **Panel Finalization**: April 28
 - **Speaker Notifications**: June 8
-- **Schedule Announcement**: July 10
-- **Start of Keynote Announcements**: July 13
+- **Schedule Announcement**: June 22
+- **Start of Keynote Announcements**: July 1
 
 
 ## Call for Proposals Opens
