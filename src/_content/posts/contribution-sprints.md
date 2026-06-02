@@ -1,9 +1,10 @@
 ---
 author: DjangoCon US Communications Team
 category: General
-published_datetime: 2026-07-07 12:00:00-04:00
+published_datetime: 2026-06-02 12:00:00-04:00
 layout: post
 title: Contribute to Django at the Contribution Sprints!
+description: "DjangoCon US Contribution Sprints are August 27–28, 2026 in Chicago and are free and open to all. Whether you write code or not, there's a place for you to help open source projects thrive"
 
 cover:
     url: /assets/img/2025/sprints.jpg
