@@ -13,6 +13,8 @@ cover:
 
 We are excited to talk to you about contribution sprints at DjangoCon US! They are being held **Thursday, August 27th and Friday, August 28th, 2026**, from **9am to 5pm** each day at the **[voco Chicago Downtown](https://www.ihg.com/voco/hotels/us/en/chicago/chiwp/hoteldetail)**, the same venue as the main conference and virtually on our conference Slack. **They are free to attend and open to everyone**.
 
+<!-- excerpt -->
+
 📣 **[Get your ticket]({{site.ticket_link}})** and join us!
 
 ## What is a contribution sprint?
