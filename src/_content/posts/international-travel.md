@@ -1,5 +1,5 @@
 ---
-author: Marketing Team
+author: DjangoCon US Marketing Team
 hidden: false
 category: General
 published_datetime: 2026-06-08 16:00:00
