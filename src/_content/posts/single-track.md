@@ -3,7 +3,7 @@ author: Aayush Gauba
 hidden: false
 category: Announcements
 layout: post
-published_datetime: 2026-05-27 16:00:00
+published_datetime: 2026-06-03 16:00:00
 cover:
     url: /assets/img/blog/organizer-team-2025.jpg
     alt: "DjangoCon US organizers"
