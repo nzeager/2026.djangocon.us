@@ -1,5 +1,5 @@
 ---
-author: Aayush Gauba
+author: DjangoCon US Marketing Team
 hidden: false
 category: Announcements
 layout: post
