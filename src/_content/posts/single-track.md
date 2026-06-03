@@ -22,13 +22,13 @@ The simple answer is financial sustainability.
 
 Running conferences has become substantially more expensive over the last several years, and sponsorship has not kept pace. Audio/visual production alone scales rapidly with each additional room: recording crews, switching equipment, livestream infrastructure, microphones, staging, and dedicated technical staff all multiply with every added track.
 
-At the same time, sponsorship budgets across the tech industry have tightened considerably.
+At the same time, sponsorship budgets across the tech industry have tightened considerably, and ticket sales have not returned to their pre-covid levels.
 
 Like many community-led events, we reached a crossroads: either continue stretching resources across multiple simultaneous tracks and risk diminishing the overall conference experience, or make a focused investment to deliver a stronger, more sustainable DjangoCon US.
 
 We chose to focus on an opportunity to try something different.
 
-## What a single-track DjangoCon means
+## What a single-track DjangoCon US means
 
 For attendees, the shift comes with an immediate benefit:
 
@@ -38,19 +38,21 @@ Every attendee, from first-time Django developers to longtime community members,
 
 That kind of shared experience is increasingly rare at technical conferences.
 
-A single-track format also allows us to invest more deeply in each selected session. With fewer presentation slots available, the programme becomes more intentional, with additional attention on talk quality, pacing, and the overall flow of the event.
+A single-track format also allows us to invest more deeply in each selected session. With fewer presentation slots available, the program becomes more intentional, with additional attention on talk quality, pacing, and the overall flow of the event.
 
-Rather than trying to run multiple competing talk rooms at once, we want to make every hour of DjangoCon feel meaningful.
+Rather than trying to run multiple competing talk rooms at once, we want to make every hour of DjangoCon US feel meaningful.
 
 ## Expanding the conversations beyond the stage
 
 Moving to a single talk track does not mean a smaller conference experience.
 
-Alongside the main-stage talks, DjangoCon US 2026 will include open spaces, unconference sessions, round tables, hallway discussions, and collaborative problem-solving throughout the conference.
+Alongside the main-stage talks, DjangoCon US 2026 will include open spaces, round tables, hallway discussions, and collaborative problem-solving throughout the conference.
 
-Some of the most valuable moments at DjangoCon US happen away from the podium entirely when a small group gathers around a table to discuss scaling challenges, accessibility, hiring, testing strategies, community organising, or the future of Django itself.
+Beyond those staples, we're exploring some new ideas for the space and time a second track used to fill: unique experiences and activities you simply can't get online or anywhere outside this conference. We're still shaping what those will look like, so stay tuned for announcements as plans come together.
 
-This year, we want to create even more intentional space for those conversations while keeping the main conference programme unified.
+Some of the most valuable moments at DjangoCon US happen away from the podium entirely when a small group gathers around a table to discuss scaling challenges, accessibility, hiring, testing strategies, community organizing, or the future of Django itself.
+
+This year, we want to create even more intentional space for those conversations while keeping the main conference program unified.
 
 ### Sponsor a workshop
 
