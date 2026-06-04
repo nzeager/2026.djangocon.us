@@ -2,7 +2,7 @@
 author: DjangoCon US Marketing Team
 hidden: false
 category: General
-published_datetime: 2026-06-08 16:00:00
+published_datetime: 2026-06-09 16:00:00
 featured: true
 cover:
     url: /assets/img/blog/dcus25-django-photo.jpg
@@ -19,7 +19,7 @@ Are you attending DjangoCon US 2026 in Chicago, Illinois, but you are not from U
 
 - **Valid Passport**: A passport which will expire in a minimum of six months after the date of departure is highly recommended. However, your embassy will have more up-to-date information on this.
 
-- **Accommodation**: If you are staying in the conference hotel, [book your room here](https://www.ihg.com/redirect?path=asearch&brandCode=vx&localeCode=en&regionCode=1&hotelCode=CHIWP&checkInDate=23&checkInMonthYear=072026&checkOutDate=29&checkOutMonthYear=072026&rateCode=6CBARC&_PMID=99801505&GPC=DJ6&cn=no&adjustMonth=false&showApp=true&monthIndex=00). Our conference rate expires on Aug. 11, 2026.
+- **Accommodation**: If you are staying in the conference hotel, [book your room here](https://www.ihg.com/redirect?path=asearch&brandCode=vx&localeCode=en&regionCode=1&hotelCode=CHIWP&checkInDate=23&checkInMonthYear=072026&checkOutDate=29&checkOutMonthYear=072026&rateCode=6CBARC&_PMID=99801505&GPC=DJ6&cn=no&adjustMonth=false&showApp=true&monthIndex=00). Our conference rate expires on Aug. 3, 2026.
 
 - **Money Conversion**: Most places in the US will take major credit cards, such as Visa and Mastercard. You can withdraw local currency from your bank account using an ATM if you need cash while you are in the United States.
 
