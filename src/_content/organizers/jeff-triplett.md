@@ -1,7 +1,7 @@
 ---
 name: Jeff Triplett
 photo: jeff-triplett.jpg
-role: DEFNA Cofounder, Code of Conduct team
+role: DEFNA Cofounder, Automations
 social:
     twitter: webology
     website: https://jefftriplett.com/
