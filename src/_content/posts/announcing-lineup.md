@@ -1,7 +1,7 @@
 ---
 author: DjangoCon US Organizers
 category: General
-date: 2026-06-08 12:00:00-04:00
+published_datetime: 2026-06-08 12:00:00
 layout: post
 title: Announcing Our DjangoCon US 2026 Talks!
 ---
