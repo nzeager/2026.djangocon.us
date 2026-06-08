@@ -2,6 +2,7 @@ import pathlib
 from typing import Any, Iterable
 
 import frontmatter
+from slugify import slugify
 import yaml
 
 from models import Presenter, Schedule
@@ -10,7 +11,7 @@ from models import Presenter, Schedule
 HEADER = """---
 author: DjangoCon US Organizers
 category: General
-date: 2026-07-16 12:00:00-04:00
+published_datetime: 2026-07-16 12:00:00-04:00
 image: /static/img/blog/speaking-2024.jpg
 layout: post
 post_photo_alt: Speaker addressing a crowd at DjangoCon US 2023 in San Diego
@@ -75,8 +76,8 @@ def format_talk(talk: dict[str, Any], presenters: Iterable[Presenter]) -> str:
     presenter_details = [
         f"{presenter.name} {generate_urls(presenter=presenter)}"
         for presenter in sorted(
-            (p for p in presenters if p.slug in talk["presenter_slugs"]),
-            key=lambda p: talk["presenter_slugs"].index(p.slug),
+            (p for p in presenters if getattr(p, 'slug', slugify(p.name)) in talk["presenter_slugs"]),
+            key=lambda p: talk["presenter_slugs"].index(getattr(p, 'slug', slugify(p.name))),
         )
     ]
     return f'{" and ".join(presenter_details)} - {talk["title"]}'
@@ -106,7 +107,7 @@ def load_presenters() -> dict[str, Presenter]:
         for presenter in presenters
     )
 
-    output = {p.slug: p for p in result}
+    output = {getattr(p, 'slug', slugify(p.name)): p for p in result}
     print(output)
     return output
 

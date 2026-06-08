@@ -7,5 +7,6 @@ python-frontmatter
 python-slugify
 requests
 rich
+slugify
 shot-scraper
 typer
