@@ -1,8 +1,12 @@
 ---
 author: DjangoCon US Organizers
 category: General
-published_datetime: 2026-06-08 12:00:00
+cover:
+    url: /assets/img/blog/marlene-day-3-keynote.jpg
+    alt: "Marlene Mhangami speaking at DjangoCon US 2025"
+featured: true
 layout: post
+published_datetime: 2026-06-08 12:00:00
 title: Announcing Our DjangoCon US 2026 Talks!
 ---
 
