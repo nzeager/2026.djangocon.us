@@ -100,7 +100,7 @@ Depending on the conference, you may be able to get your project listed on the s
 
 Let us know on your sprints ticket(s) or email us directly at [sprints@djangocon.us](mailto:sprints@djangocon.us).
 
-The organizers at DjangoCon US will be hosting a few pre-conference, virtual office hours for attendees to get their laptops ready to contribute to a project. Knowing that you’ll be there allows us to steer people towards your project so they can clone the repo, set up a virtual environment and run the tests, all before the conference, allowing you more time to collaborate. **So please, let us know if you’re coming!**
+The organizers at DjangoCon US will be hosting a few virtual office hour sessions before the conference for attendees to get their laptops ready to contribute to a project. Knowing that you’ll be there allows us to steer people towards your project so they can clone the repo, set up a virtual environment and run the tests, all before the conference, allowing you more time to collaborate. **So please, let us know if you’re coming!**
 
 ## Do something extra {#do-something-extra}
 

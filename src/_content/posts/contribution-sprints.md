@@ -37,7 +37,7 @@ There is an excellent video on this topic by [Shauna Gordon-McKeon](https://www.
 
 ## How & Why To Lead a Contribution Sprint
 
-The "why" is clear: if you’ve realized your project needs help especially with things beyond code this is a great opportunity to find that help.
+The "why" is clear: if you’ve realized your project needs help, especially with things beyond code, this is a great opportunity to find that help.
 
 The "how" can be trickier, so here are some specific suggestions:
 
