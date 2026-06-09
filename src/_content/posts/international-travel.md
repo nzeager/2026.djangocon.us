@@ -15,7 +15,7 @@ Are you attending DjangoCon US 2026 in Chicago, Illinois, but you are not from U
 <!-- excerpt -->
 - **Visa Invitation Letter**: If you need a visa invitation letter, please use our [visa letter form](https://2026.djangocon.us/invitation/) to request one.
 
-- **Visa**: Check the [State Department's website](https://travel.state.gov/content/visas/en.html) for information about US visas, and review the [estimated visa appointment wait times](https://travel.state.gov/content/travel/en/us-visas/visa-information-resources/global-visa-wait-times.html) when planning your travel. You may be eligible for a visa waiver program (which is an online form—no embassy visit required) or you may need to apply for a visa at the [US consulate](https://www.usembassy.gov/) in your country or neighboring country.
+- **Visa**: Check the [State Department's website](https://travel.state.gov/content/visas/en.html) for information about US visas, and review the [estimated visa appointment wait times](https://travel.state.gov/content/travel/en/us-visas/visa-information-resources/global-visa-wait-times.html) when planning your travel. You may be eligible for a visa waiver program (which is an online form—no embassy visit required) or you may need to apply for a visa at the [US embassy or consulate](https://www.usembassy.gov/) in your country or a neighboring country.
 
 - **Valid Passport**: A passport which will expire in a minimum of six months after the date of departure is highly recommended. However, your embassy will have more up-to-date information on this.
 
