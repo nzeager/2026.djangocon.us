@@ -11,7 +11,7 @@ cover:
     alt: "A photo of people at the sprints. Several people are at desks, looking intently at laptops. There is a group of three people discussing something in the background."
 ---
 
-We are excited to talk to you about contribution sprints at DjangoCon US! They are being held **Thursday, August 27th and Friday, August 28th, 2026**, from **9am to 5pm** each day at the **[voco Chicago Downtown](https://www.ihg.com/voco/hotels/us/en/chicago/chiwp/hoteldetail)**, the same venue as the main conference and virtually on our conference Slack. **They are free to attend and open to everyone**.
+We are excited to talk to you about contribution sprints at DjangoCon US! They are being held **Thursday, August 27th and Friday, August 28th, 2026**, from **[9am](https://time.is/0900AM_27_August_2026_in_Chicago) to [5pm](https://time.is/0500PM_27_August_2026_in_Chicago) CDT** each day at the **[voco Chicago Downtown](https://www.ihg.com/voco/hotels/us/en/chicago/chiwp/hoteldetail)**, the same venue as the main conference and virtually on our conference Slack. **They are free to attend and open to everyone**.
 
 <!-- excerpt -->
 
@@ -82,7 +82,7 @@ We are continuing the hybrid format: virtual and in-person. This brings both cha
 
 ## Final Notes
 
-The Contribution Sprints are free and open to everyone. They will run **August 27–28, 2026 from 9am to 5pm CDT** at **voco Chicago Downtown** and online via Slack.
+The Contribution Sprints are free and open to everyone. They will run **August 27–28, 2026 from [9am](https://time.is/0900AM_27_August_2026_in_Chicago) to [5pm](https://time.is/0500PM_27_August_2026_in_Chicago) CDT** at **voco Chicago Downtown** and online via Slack.
 
 - Want to lead or organize a sprint? Great!
 - Want to help? We’d love to have you.
