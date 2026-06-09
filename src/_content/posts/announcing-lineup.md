@@ -49,7 +49,7 @@ _All talks will be available live for those with online-only tickets. They will 
 - Sarah Abderemane ([mastodon](https://mastodon.social/@sabderemane), [website](https://sarahabd.com/)) - 50 shades of green - One contribution to the Django world
 - Scott Cranfill ([website](https://compiler.la)) - Using Django to deliver public transit benefits securely and privately
 - Tobias McNulty  - Search-as-you-type for 54 Million Names: PostgreSQL + Django for Fuzzy Name Matching at Scale
-- Will Vincent ([mastodon](fosstodon.org/@wsvincent), [website](https://wsvincent.com/)) - Modern Django Deployments in 2026
+- Will Vincent ([mastodon](https://fosstodon.org/@wsvincent), [website](https://wsvincent.com/)) - Modern Django Deployments in 2026
 
 
 Congratulations to all our speakers!
