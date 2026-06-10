@@ -1,7 +1,7 @@
 ---
-author: DjangoCon US Communications Team
+author: DjangoCon US Marketing Team
 category: General
-published_datetime: 2026-06-09 12:00:00-04:00
+published_datetime: 2026-06-10 12:00:00-04:00
 layout: post
 title: Preparing for sprints as a project leader
 description: "Get your project sprint-ready for DjangoCon US. Learn how to promote your participation, prepare contributor docs, identify beginner-friendly issues, and create a welcoming environment that keeps contributors coming back."
