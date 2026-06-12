@@ -2,7 +2,7 @@
 author: DjangoCon US Marketing Team
 hidden: false
 category: General
-published_datetime: 2026-06-09 16:00:00
+published_datetime: 2026-06-12 16:00:00
 featured: true
 cover:
     url: /assets/img/blog/dcus25-django-photo.jpg
